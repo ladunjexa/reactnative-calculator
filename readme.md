@@ -105,7 +105,7 @@ Now, lets dive into the src folder.
 
 `ThemeContext.tsx`
 
-Context lets components pass information deep down without explicity passing props. ThemeContext call [createContext] outside any component to create Theme-Mode context,
+Context lets components pass information deep down without explicity passing props. ThemeContext call [<code>createContext</code>] outside any component to create Theme-Mode context,
 initialize with 'light' value.
 
 ### styles
