@@ -56,7 +56,6 @@
 
 - [About the Project](#star2-about-the-project)
   * [Folder Structure](#bangbang-folder-structure)
-  * [Environment Variables](#key-environment-variables)
   * [Tech Stack](#space_invader-tech-stack)
 - [Getting Started](#toolbox-getting-started)
   * [Installation](#gear-installation)
