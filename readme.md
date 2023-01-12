@@ -71,7 +71,7 @@
 ## :star2: About the Project
 
 <div align="center"> 
-  <img src="readme_assets/Calculator-mockup.png" height="auto" width="100%"/>
+  <img src="readme_assets/Calculator-mockup.png" height="auto" width="90%"/>
 </div>
 
 <br />
